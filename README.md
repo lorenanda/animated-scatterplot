@@ -2,9 +2,12 @@
 
 This project was completed in week 1 of the Data Science Bootcamp at Spiced Academy.
 
-The goal is to recreate an animated scatterplot in the style of [Hans Rosling's](https://youtu.be/fTznEIZRkLg) majestic data visualization on the global evolution of life expectancy, fertility rate, and country population. The data is publicly available on the [Gapminder project website](https://www.gapminder.org/data/).
+The goal is to create an animated scatterplot that depicts the life expectancy and fertiliy rate of world's countries from 1960 to 2015, with points' sizes representing the population of the respective country.
+
+This plot is inspired by [Hans Rosling's](https://youtu.be/fTznEIZRkLg) majestic data visualizations. The data is publicly available on the [Gapminder project website](https://www.gapminder.org/data/).
 
 ## Requirements
 `pip install requirements.txt`
 
 ## Result
+![animated_scatterplot](https://github.com/lorenanda/animated-scatterplot/blob/main/scatterplot.gif)
