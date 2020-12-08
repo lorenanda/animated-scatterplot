@@ -12,9 +12,3 @@ The goal is to recreate [Hans Rosling's](https://youtu.be/fTznEIZRkLg) plots tha
 
 ## Results
 ![animated_scatterplot](https://github.com/lorenanda/animated-scatterplot/blob/main/scatterplot.gif)
-
-## How to use this code
-1. Clone this repo
-2. Install the necessary libraries: `pip install requirements.txt`
-3. Run the files
-4. Enjoy
